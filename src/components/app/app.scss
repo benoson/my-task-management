@@ -1,0 +1,25 @@
+.app {
+  padding: 1rem;
+}
+
+.task-lists-container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.app-title {
+  font-weight: 400;
+  color: white;
+}
+
+.app-header-logo {
+  width: 100px;
+  margin-right: 1rem;
+}

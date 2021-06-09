@@ -1,0 +1,53 @@
+.task-card {
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+
+.card-content {
+  cursor: pointer;
+}
+
+.card-text {
+  word-wrap: break-word;
+}
+
+.modal-task-header {
+  font-weight: 400;
+  margin-right: 2rem;
+}
+
+.modal-task-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-task-text {
+  font-weight: 400;
+  margin-right: 3rem;
+}
+
+.modal-footer {
+  border-top: 1px solid rgba(119, 136, 153, 0.438);
+  margin-top: 1rem;
+}
+
+.modal-footer-list-title {
+  font-weight: 600;
+}
+
+.modal-task-title-section {
+  margin-bottom: 1rem;
+}
+
+.bottom-card-section {
+  justify-content: space-between;
+}
+
+.form-control-select {
+  width: 100%;
+}
+
+.list-select-input {
+  width: 30%;
+}

@@ -1,0 +1,28 @@
+.task-list-outer {
+  width: 20%;
+  padding: 1rem;
+}
+
+.task-list {
+  padding: 1rem 0.5rem;
+  background-color: #f1f3f5;
+}
+
+.task-list-title {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: #6b778f;
+  flex: 1;
+  word-break: break-word;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  word-break: break-all;
+}
+
+.list-header-icons {
+  display: flex;
+}
